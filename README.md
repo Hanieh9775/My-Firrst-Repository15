@@ -1,5 +1,5 @@
 import string
-import random
+import rando
 from flask import Flask, request, redirect, render_template_string
 
 app = Flask(__name__)
