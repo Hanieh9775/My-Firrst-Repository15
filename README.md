@@ -6,7 +6,7 @@ app = Flask(__name__)
 url_map = {}
 
 HTML_TEMPLATE = """
-<!DOCTYPE html>
+<!DOCTYPE html>E
 <html lang="en">
 <head>
     <meta charset="UTF-8">
