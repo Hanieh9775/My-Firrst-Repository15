@@ -19,7 +19,7 @@ HTML_TEMPLATE = """
         button { border-radius: 10px; }
     </style>
 </head>
-<body>
+
     <div class="card shadow">
         <div class="card-body text-center">
             <h2 class="mb-4">🔗 URL Shortener</h2>
