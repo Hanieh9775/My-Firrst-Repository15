@@ -3,7 +3,7 @@ import random
 from flask import Flask, request, redirect, render_template_string
 
 app = Flask(__name__)
-url_map = {}
+url_map 
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>E
